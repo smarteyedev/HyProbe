@@ -26,8 +26,8 @@ HyProbe is a sci-fi simulation game that places players in the role of an interg
 ## Developer
 
 - **Name:** Ramaditya Firdaus 
-  <br**Role:** Programmer
-  <br**Contact:** ramadityafirdaus11@gmail.com
+  <br>**Role:** Programmer
+  <br>**Contact:** ramadityafirdaus11@gmail.com
 
 - **Name:** Ilham Nurhakim
   <br**Role:** 3D Artist
