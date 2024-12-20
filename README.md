@@ -30,9 +30,9 @@ HyProbe is a sci-fi simulation game that places players in the role of an interg
   <br>**Contact:** ramadityafirdaus11@gmail.com
 
 - **Name:** Ilham Nurhakim
-  <br**Role:** 3D Artist
-  <br**Contact:** 
+  <br>**Role:** 3D Artist
+  <br>**Contact:** 
 
 - **Name:** Rania Maharani
-  <br**Role:** UI/UX
-  <br**Contact:** 
+  <br>**Role:** UI/UX
+  <br>**Contact:** 
