@@ -10,28 +10,29 @@ HyProbe is a sci-fi simulation game that places players in the role of an interg
 
 1. **Dynamic Probing**: Utilize an interactive conversation system to uncover crucial information through questions.
 2. **Narrative / Visual Novel**: [Brief description of the feature, e.g., "Object rotation adjustments for a more realistic experience"]
-3. **Dynamic Mood System**: [Brief description of the feature, e.g., "Optimized to reduce eye strain"]
+3. **Dynamic Mood System**: In this game, NPCs feature a dynamic mood system where players' decisions and interactions impact their emotional state. The NPCs' mood shifts throughout the dialogue, based on how they respond to questions and solutions provided.
+4. **Offering Solution**: After completing the questioning session, players are given the opportunity to select the most appropriate solution for the NPC's problem.
+5. **History**: Players can access the history feature to review all the questions asked and the responses provided by the NPC during the consultation session.
 
 ---
 
 ## Requirement
 
-- Unity version [version used]
-- A compatible VR SDK (e.g., Oculus, HTC Vive, etc.)
-- [Additional devices or tools if required]
+- Unity version 2022.3.6f1
+- A compatible VR SDK (Oculus)
 
 ---
 
 ## Developer
 
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
+- **Name:** Ramaditya Firdaus 
+  **Role:** Programmer
+  **Contact:** ramadityafirdaus11@gmail.com
 
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
+- **Name:** Ilham Nurhakim
+  **Role:** 3D Artist
+  **Contact:** 
 
-- **Name:** [Developer Name]  
-  **Role:** [Developer Role, e.g., "Lead Developer"]  
-  **Contact:** [Developer Contact Information, e.g., email or GitHub profile]
+- **Name:** Rania Maharani
+  **Role:** UI/UX
+  **Contact:** 
